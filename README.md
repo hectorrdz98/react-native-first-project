@@ -1,2 +1,5 @@
-# react-native-first-project
-My first project in React Native
+# My first React Native project
+This is just my little playground to get familiar~
+```js
+import React from 'react';
+```
